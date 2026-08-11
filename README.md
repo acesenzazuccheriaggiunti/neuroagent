@@ -131,6 +131,4 @@ The UI shows the current epsilon value with a color indicator:
 
 ## Coming Soon
 
-- **Multi-agent** — social cortisol contagion, food competition, emergent group behavior
 - **Clinical scenarios** — preset initial conditions for burnout, insomnia, depression, trauma response
-- **Live hormone plots** — ECG-style scrolling charts in a second window
